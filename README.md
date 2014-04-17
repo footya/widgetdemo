@@ -11,8 +11,9 @@
 
 ## 目录结构示例 ##
 >seed 目录为按如下规则建立的一个种子项目,可以直接copy一份放在当前文件夹内来开发自己的widget,lib 为大家可能用到的一些辅助内容如jquery等
+
 <pre>
-overlay
+widgetname
   -- img                      存放组件用到的 img 等文件
       -- imgname.png
   -- css                      存放 js, css 文件
